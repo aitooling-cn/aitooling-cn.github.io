@@ -1,4 +1,4 @@
-const SITE_URL = 'https://aitooling.com';
+const SITE_URL = 'https://aitooling-cn.github.io';
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');

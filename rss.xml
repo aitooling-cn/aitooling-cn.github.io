@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AITooling - AI工具评测与使用指南</title>
-    <link>https://aitooling.com</link>
+    <link>https://aitooling-cn.github.io</link>
     <description>发现最好用的AI工具，提升你的工作效率。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Jul 2026 09:01:28 GMT</lastBuildDate>
-    <atom:link href="https://aitooling.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Wed, 08 Jul 2026 11:10:10 GMT</lastBuildDate>
+    <atom:link href="https://aitooling-cn.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <item>
       <title><![CDATA[Claude vs ChatGPT深度对比：2025年谁才是AI之王？]]></title>
-      <link>https://aitooling.com/articles/claude-vs-chatgpt-deep-comparison-2025/</link>
-      <guid>https://aitooling.com/articles/claude-vs-chatgpt-deep-comparison-2025/</guid>
+      <link>https://aitooling-cn.github.io/articles/claude-vs-chatgpt-deep-comparison-2025/</link>
+      <guid>https://aitooling-cn.github.io/articles/claude-vs-chatgpt-deep-comparison-2025/</guid>
       <description><![CDATA[从写作、编程、分析、创意四个维度进行超过50项实测对比，用真实数据告诉你该选哪个AI助手。]]></description>
       <pubDate>Tue, 08 Jul 2025 00:00:00 GMT</pubDate>
       <category>writing</category>
     </item>
     <item>
       <title><![CDATA[2025年小企业必备的15款AI工具：降本增效实战指南]]></title>
-      <link>https://aitooling.com/articles/ai-tools-for-small-business-2025/</link>
-      <guid>https://aitooling.com/articles/ai-tools-for-small-business-2025/</guid>
+      <link>https://aitooling-cn.github.io/articles/ai-tools-for-small-business-2025/</link>
+      <guid>https://aitooling-cn.github.io/articles/ai-tools-for-small-business-2025/</guid>
       <description><![CDATA[专为小企业和创业者精选的15款AI工具，涵盖营销、客服、财务、HR等领域，用最少预算实现最大效率提升。]]></description>
       <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
       <category>productivity</category>
     </item>
     <item>
       <title><![CDATA[AI工具订阅省钱指南：2025年如何用最低成本获得最佳体验]]></title>
-      <link>https://aitooling.com/articles/ai-tools-money-saving-guide-2025/</link>
-      <guid>https://aitooling.com/articles/ai-tools-money-saving-guide-2025/</guid>
+      <link>https://aitooling-cn.github.io/articles/ai-tools-money-saving-guide-2025/</link>
+      <guid>https://aitooling-cn.github.io/articles/ai-tools-money-saving-guide-2025/</guid>
       <description><![CDATA[分享AI工具订阅的省钱技巧，包括免费替代方案、学生优惠、捆绑套餐和共享方案，帮你每年节省数百美元。]]></description>
       <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
       <category>productivity</category>
     </item>
     <item>
       <title><![CDATA[Sora vs Runway vs Pika：2025年AI视频生成工具全面评测]]></title>
-      <link>https://aitooling.com/articles/ai-video-tools-comparison-2025/</link>
-      <guid>https://aitooling.com/articles/ai-video-tools-comparison-2025/</guid>
+      <link>https://aitooling-cn.github.io/articles/ai-video-tools-comparison-2025/</link>
+      <guid>https://aitooling-cn.github.io/articles/ai-video-tools-comparison-2025/</guid>
       <description><![CDATA[三款主流AI视频生成工具的深度对比：视频质量、生成速度、编辑能力和价格，帮你选择最佳AI视频创作工具。]]></description>
       <pubDate>Sat, 05 Jul 2025 00:00:00 GMT</pubDate>
       <category>video</category>
     </item>
     <item>
       <title><![CDATA[2025年必备的10款AI效率工具，让你的工作效率翻倍]]></title>
-      <link>https://aitooling.com/articles/top-10-ai-productivity-tools-2025/</link>
-      <guid>https://aitooling.com/articles/top-10-ai-productivity-tools-2025/</guid>
+      <link>https://aitooling-cn.github.io/articles/top-10-ai-productivity-tools-2025/</link>
+      <guid>https://aitooling-cn.github.io/articles/top-10-ai-productivity-tools-2025/</guid>
       <description><![CDATA[精选10款能显著提升工作效率的AI工具，涵盖笔记、日程、邮件、文档处理等场景，每个工具都有详细的实测体验。]]></description>
       <pubDate>Fri, 04 Jul 2025 00:00:00 GMT</pubDate>
       <category>productivity</category>
     </item>
     <item>
       <title><![CDATA[GitHub Copilot vs Cursor vs Windsurf：2025年AI编程工具深度对比]]></title>
-      <link>https://aitooling.com/articles/ai-coding-tools-comparison-2025/</link>
-      <guid>https://aitooling.com/articles/ai-coding-tools-comparison-2025/</guid>
+      <link>https://aitooling-cn.github.io/articles/ai-coding-tools-comparison-2025/</link>
+      <guid>https://aitooling-cn.github.io/articles/ai-coding-tools-comparison-2025/</guid>
       <description><![CDATA[三大AI编程助手全面横评：代码补全、上下文理解、价格和IDE集成，帮你选对AI编程搭档。]]></description>
       <pubDate>Thu, 03 Jul 2025 00:00:00 GMT</pubDate>
       <category>coding</category>
     </item>
     <item>
       <title><![CDATA[Midjourney vs DALL-E 3 vs Stable Diffusion：2025年AI绘图工具终极对决]]></title>
-      <link>https://aitooling.com/articles/ai-image-tools-comparison-2025/</link>
-      <guid>https://aitooling.com/articles/ai-image-tools-comparison-2025/</guid>
+      <link>https://aitooling-cn.github.io/articles/ai-image-tools-comparison-2025/</link>
+      <guid>https://aitooling-cn.github.io/articles/ai-image-tools-comparison-2025/</guid>
       <description><![CDATA[从画质、速度、价格、易用性四个维度深度对比Midjourney、DALL-E 3和Stable Diffusion，帮你选择最适合的AI绘图工具。]]></description>
       <pubDate>Wed, 02 Jul 2025 00:00:00 GMT</pubDate>
       <category>image</category>
     </item>
     <item>
       <title><![CDATA[2025年最佳AI写作工具深度评测：ChatGPT vs Claude vs Gemini]]></title>
-      <link>https://aitooling.com/articles/best-ai-writing-tools-2025/</link>
-      <guid>https://aitooling.com/articles/best-ai-writing-tools-2025/</guid>
+      <link>https://aitooling-cn.github.io/articles/best-ai-writing-tools-2025/</link>
+      <guid>https://aitooling-cn.github.io/articles/best-ai-writing-tools-2025/</guid>
       <description><![CDATA[全面对比三大AI写作工具ChatGPT、Claude和Gemini的功能、价格和适用场景，帮你找到最适合的AI写作助手。]]></description>
       <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
       <category>writing</category>

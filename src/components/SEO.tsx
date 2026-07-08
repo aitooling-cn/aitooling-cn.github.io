@@ -12,7 +12,7 @@ interface SEOProps {
 }
 
 const SITE_NAME = 'AITooling - AI工具评测与使用指南';
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://aitooling.com';
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://aitooling-cn.github.io';
 
 export function generateArticleMetadata(article: {
   title: string;
