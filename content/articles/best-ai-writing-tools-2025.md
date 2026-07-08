@@ -7,15 +7,18 @@ tags: ["ChatGPT", "Claude", "Gemini", "AI写作", "工具对比"]
 author: "AI Tooling"
 featured: true
 affiliateLinks:
-  - name: "ChatGPT Plus"
-    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Dhttps://chat.openai.compid=mm_10430337205_3426450134_116292700398"
-    price: "$20/月"
-  - name: "Claude Pro"
-    url: "https://claude.ai"
-    price: "$20/月"
-  - name: "Google Gemini Advanced"
-    url: "https://gemini.google.com"
-    price: "$19.99/月"
+  - name: "👉 ChatGPT Plus 国内代充"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Dchatgpt%2Bplus&union_lens=mm_10430337205_3426450134_116292700398"
+    price: "¥130-150/月"
+  - name: "👉 Claude Pro 国内代充"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Dclaude%2Bpro&union_lens=mm_10430337205_3426450134_116292700398"
+    price: "¥130-150/月"
+  - name: "👉 Google Gemini Advanced"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Dgemini%2Badvanced&union_lens=mm_10430337205_3426450134_116292700398"
+    price: "¥130-150/月"
+  - name: "👉 AI写作教程合集"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3DAI%E5%86%99%E4%BD%9C%E6%95%99%E7%A8%8B&union_lens=mm_10430337205_3426450134_116292700398"
+    price: "¥9.9起"
 ---
 
 ## 引言

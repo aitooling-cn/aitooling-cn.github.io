@@ -7,12 +7,15 @@ tags: ["Midjourney", "DALL-E", "Stable Diffusion", "AI绘画", "图像生成"]
 author: "AI Tooling"
 featured: true
 affiliateLinks:
-  - name: "Midjourney订阅"
-    url: "https://www.midjourney.com"
-    price: "$10-60/月"
-  - name: "ChatGPT Plus (含DALL-E)"
-    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Dhttps://chat.openai.compid=mm_10430337205_3426450134_116292700398"
-    price: "$20/月"
+  - name: "👉 Midjourney 国内代充"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Dmidjourney&union_lens=mm_10430337205_3426450134_116292700398"
+    price: "¥30-200/月"
+  - name: "👉 ChatGPT Plus (含DALL-E)"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Dchatgpt%2Bplus&union_lens=mm_10430337205_3426450134_116292700398"
+    price: "¥130-150/月"
+  - name: "👉 AI绘画教程入门"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3DAI%E7%BB%98%E7%94%BB%E6%95%99%E7%A8%8B&union_lens=mm_10430337205_3426450134_116292700398"
+    price: "¥9.9起"
 ---
 
 ## 引言

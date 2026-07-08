@@ -6,9 +6,12 @@ category: "video"
 tags: ["Sora", "Runway", "Pika", "AI视频", "视频生成"]
 author: "AI Tooling"
 affiliateLinks:
-  - name: "Runway"
-    url: "https://runwayml.com"
-    price: "$15/月起"
+  - name: "👉 Runway 国内代充"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Drunway&union_lens=mm_10430337205_3426450134_116292700398"
+    price: "¥100-200/月"
+  - name: "👉 AI视频剪辑教程"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3DAI%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B&union_lens=mm_10430337205_3426450134_116292700398"
+    price: "¥9.9起"
 ---
 
 ## 引言

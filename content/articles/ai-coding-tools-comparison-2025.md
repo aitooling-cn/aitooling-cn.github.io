@@ -7,12 +7,15 @@ tags: ["GitHub Copilot", "Cursor", "Windsurf", "AI编程", "代码助手"]
 author: "AI Tooling"
 featured: true
 affiliateLinks:
-  - name: "GitHub Copilot"
-    url: "https://github.com/features/copilot"
-    price: "$10/月"
-  - name: "Cursor Pro"
-    url: "https://cursor.sh"
-    price: "$20/月"
+  - name: "👉 GitHub Copilot 国内代充"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Dgithub%2Bcopilot&union_lens=mm_10430337205_3426450134_116292700398"
+    price: "¥70-100/月"
+  - name: "👉 Cursor Pro 代充"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Dcursor%2Bpro&union_lens=mm_10430337205_3426450134_116292700398"
+    price: "¥130-150/月"
+  - name: "👉 AI编程入门教程"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3DAI%E7%BC%96%E7%A8%8B%E6%95%99%E7%A8%8B&union_lens=mm_10430337205_3426450134_116292700398"
+    price: "¥9.9起"
 ---
 
 ## 引言
