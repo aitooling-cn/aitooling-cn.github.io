@@ -7,7 +7,7 @@ tags: ["Claude", "ChatGPT", "AI对比", "深度评测"]
 author: "AI Tooling"
 affiliateLinks:
   - name: "ChatGPT Plus"
-    url: "https://chat.openai.com"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Dhttps://chat.openai.compid=mm_10430337205_3426450134_116292700398"
     price: "$20/月"
   - name: "Claude Pro"
     url: "https://claude.ai"

@@ -11,7 +11,7 @@ affiliateLinks:
     url: "https://www.midjourney.com"
     price: "$10-60/月"
   - name: "ChatGPT Plus (含DALL-E)"
-    url: "https://chat.openai.com"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Dhttps://chat.openai.compid=mm_10430337205_3426450134_116292700398"
     price: "$20/月"
 ---
 
