@@ -5,6 +5,13 @@ date: "2025-07-10"
 category: "image"
 tags: ["Midjourney", "AI绘画", "教程", "提示词", "入门"]
 author: "AI Tooling"
+affiliateLinks:
+  - name: "👉 AI绘画教程（热销）"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3D1057257944932%26union_lens%3Dmm_10430337205_3426450134_116292700398"
+    price: "¥9.9起"
+  - name: "👉 Midjourney 国内代充"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Dmidjourney&union_lens=mm_10430337205_3426450134_116292700398"
+    price: "¥30-200/月"
 ---
 
 ## 引言

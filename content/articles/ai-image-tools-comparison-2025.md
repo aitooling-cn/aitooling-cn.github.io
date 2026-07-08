@@ -13,8 +13,8 @@ affiliateLinks:
   - name: "👉 ChatGPT Plus (含DALL-E)"
     url: "https://s.click.taobao.com/t?e=m%3D2%26s%3Dchatgpt%2Bplus&union_lens=mm_10430337205_3426450134_116292700398"
     price: "¥130-150/月"
-  - name: "👉 AI绘画教程入门"
-    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3DAI%E7%BB%98%E7%94%BB%E6%95%99%E7%A8%8B&union_lens=mm_10430337205_3426450134_116292700398"
+  - name: "👉 AI绘画教程（热销）"
+    url: "https://s.click.taobao.com/t?e=m%3D2%26s%3D1057257944932%26union_lens%3Dmm_10430337205_3426450134_116292700398"
     price: "¥9.9起"
 ---
 
