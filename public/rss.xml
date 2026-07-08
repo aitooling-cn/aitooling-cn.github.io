@@ -5,9 +5,41 @@
     <link>https://aitooling-cn.github.io</link>
     <description>发现最好用的AI工具，提升你的工作效率。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 08 Jul 2026 12:34:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 12:38:16 GMT</lastBuildDate>
     <atom:link href="https://aitooling-cn.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
+    <item>
+      <title><![CDATA[程序员必备的8款AI编程插件：VS Code + JetBrains全覆盖]]></title>
+      <link>https://aitooling-cn.github.io/articles/ai-coding-plugins-2025/</link>
+      <guid>https://aitooling-cn.github.io/articles/ai-coding-plugins-2025/</guid>
+      <description><![CDATA[精选8款VS Code和JetBrains平台的AI编程插件，包括GitHub Copilot、Tabnine、Codeium等，实测对比帮你选对工具。]]></description>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+      <category>coding</category>
+    </item>
+    <item>
+      <title><![CDATA[AI绘画入门指南：从零到精通Midjourney的10个技巧]]></title>
+      <link>https://aitooling-cn.github.io/articles/midjourney-beginners-guide-2025/</link>
+      <guid>https://aitooling-cn.github.io/articles/midjourney-beginners-guide-2025/</guid>
+      <description><![CDATA[新手友好的Midjourney完整教程，10个实用技巧帮你快速上手AI绘画，附提示词模板和案例。]]></description>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+      <category>image</category>
+    </item>
+    <item>
+      <title><![CDATA[2025年AI PPT生成工具评测：Gamma vs Beautiful.ai vs Tome]]></title>
+      <link>https://aitooling-cn.github.io/articles/ai-ppt-tools-comparison-2025/</link>
+      <guid>https://aitooling-cn.github.io/articles/ai-ppt-tools-comparison-2025/</guid>
+      <description><![CDATA[三款AI PPT工具全方位对比，从设计质量、模板丰富度、协作功能到价格，帮你选出最适合的AI演示文稿工具。]]></description>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
+      <category>productivity</category>
+    </item>
+    <item>
+      <title><![CDATA[2025年AI语音转文字工具横评：讯飞听见 vs 剪映 vs Otter.ai]]></title>
+      <link>https://aitooling-cn.github.io/articles/ai-speech-to-text-tools-2025/</link>
+      <guid>https://aitooling-cn.github.io/articles/ai-speech-to-text-tools-2025/</guid>
+      <description><![CDATA[深度对比三大AI语音转文字工具，从准确率、速度、价格、语言支持四个维度帮你选对工具。含真实实测数据。]]></description>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 GMT</pubDate>
+      <category>productivity</category>
+    </item>
     <item>
       <title><![CDATA[Claude vs ChatGPT深度对比：2025年谁才是AI之王？]]></title>
       <link>https://aitooling-cn.github.io/articles/claude-vs-chatgpt-deep-comparison-2025/</link>
