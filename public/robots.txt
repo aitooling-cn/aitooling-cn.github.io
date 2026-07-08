@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Sitemap: https://aitooling-cn.github.io/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+Sitemap: https://aitooling-cn.github.io/sitemap.xml
+
+User-agent: Bingbot
+Allow: /
+Sitemap: https://aitooling-cn.github.io/sitemap.xml
+
+User-agent: Baiduspider
+Allow: /
+Sitemap: https://aitooling-cn.github.io/sitemap.xml
+
+User-agent: YandexBot
+Allow: /
+Sitemap: https://aitooling-cn.github.io/sitemap.xml
